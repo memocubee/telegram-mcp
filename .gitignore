@@ -1,0 +1,4 @@
+telegram_config.json
+.env
+__pycache__/
+.DS_Store
